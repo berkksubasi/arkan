@@ -41,16 +41,6 @@ export default function Hizmetler() {
     { id: 'uluslararasi' as const, title: 'Uluslararası Hizmetler', icon: GlobeAltIcon, color: 'secondary' }
   ];
 
-  interface BaseService {
-    title: string;
-    description: string;
-    features: string[];
-    price: string;
-    duration: string;
-    icon: React.ComponentType<React.SVGProps<SVGSVGElement>>;
-    popular: boolean;
-  }
-
   const services = {
     marka: [
       {
