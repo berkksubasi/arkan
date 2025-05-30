@@ -660,7 +660,7 @@ export default function Hakkimizda() {
                 <ArrowRightIcon className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </Link>
               <Link
-                href="tel:+90XXXXXXXXX"
+                href="tel:+905342989276"
                 className="border-2 border-white text-white hover:bg-white hover:text-primary-600 px-8 py-4 rounded-lg font-semibold transition-all duration-300 inline-flex items-center justify-center"
               >
                 <PhoneIcon className="mr-2 h-5 w-5" />

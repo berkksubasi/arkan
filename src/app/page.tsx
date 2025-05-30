@@ -240,7 +240,7 @@ export default function Home() {
                 </div>
                 <div className="mt-6 pt-6 border-t border-primary-200">
                   <Link
-                    href="tel:+90XXXXXXXXX"
+                    href="tel:+905342989276"
                     className="btn-primary w-full text-center block"
                   >
                     Hemen Arayın
@@ -532,7 +532,7 @@ export default function Home() {
                 <ArrowRightIcon className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </Link>
               <Link
-                href="tel:+90XXXXXXXXX"
+                href="tel:+905342989276"
                 className="border-2 border-white text-white hover:bg-white hover:text-primary-600 px-8 py-4 rounded-lg font-semibold transition-all duration-300 text-center"
               >
                 Hemen Arayın

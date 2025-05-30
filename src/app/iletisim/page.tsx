@@ -65,7 +65,7 @@ export default function Iletisim() {
     {
       icon: PhoneIcon,
       title: "Telefon",
-      details: ["+90 (212) 555 0123", "+90 (532) 555 0123"],
+      details: ["+90 (534) 298 9276"],
       description: "7/24 destek hattımızdan bize ulaşabilirsiniz",
       color: "primary"
     },
@@ -202,7 +202,7 @@ export default function Iletisim() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="tel:+902125550123"
+                href="tel:+905342989276"
                 className="btn-primary flex items-center justify-center group"
               >
                 <PhoneIcon className="mr-2 h-5 w-5" />
@@ -567,7 +567,7 @@ export default function Iletisim() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="tel:+902125550123"
+                href="tel:+905342989276"
                 className="bg-white text-primary-600 hover:bg-primary-50 px-8 py-4 rounded-lg font-semibold transition-all duration-300 inline-flex items-center justify-center group"
               >
                 <PhoneIcon className="mr-2 h-5 w-5" />

@@ -40,7 +40,7 @@ export default function Navbar() {
             <div className="flex items-center space-x-6">
               <div className="flex items-center space-x-2">
                 <PhoneIcon className="h-4 w-4" />
-                <span>+90 XXX XXX XX XX</span>
+                <span>+90 (534) 298 9276</span>
               </div>
               <div className="flex items-center space-x-2">
                 <EnvelopeIcon className="h-4 w-4" />
@@ -104,7 +104,7 @@ export default function Navbar() {
             {/* CTA Buttons */}
             <div className="hidden lg:flex items-center space-x-4">
               <Link
-                href="tel:+90XXXXXXXXX"
+                href="tel:+905342989276"
                 className="text-primary-600 hover:text-primary-700 font-medium transition-colors flex items-center space-x-2"
               >
                 <PhoneIcon className="h-5 w-5" />
@@ -155,12 +155,12 @@ export default function Navbar() {
                 ))}
                 <div className="px-4 pt-4 border-t border-gray-200 space-y-3">
                   <Link
-                    href="tel:+90XXXXXXXXX"
+                    href="tel:+905342989276"
                     className="flex items-center space-x-2 text-primary-600 font-medium"
                     onClick={() => setIsOpen(false)}
                   >
                     <PhoneIcon className="h-5 w-5" />
-                    <span>+90 XXX XXX XX XX</span>
+                    <span>+90 (534) 298 9276</span>
                   </Link>
                   <Link
                     href="/iletisim"

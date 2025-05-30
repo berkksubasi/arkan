@@ -123,7 +123,7 @@ export default function Footer() {
                 <div className="flex items-center space-x-3">
                   <PhoneIcon className="h-5 w-5 text-primary-400 flex-shrink-0" />
                   <div>
-                    <p className="text-white font-medium">+90 (212) 555 0123</p>
+                    <p className="text-white font-medium">+90 (534) 298 9276</p>
                     <p className="text-secondary-300 text-sm">7/24 Destek Hattı</p>
                   </div>
                 </div>
