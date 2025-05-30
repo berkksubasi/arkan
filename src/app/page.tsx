@@ -29,7 +29,7 @@ export default function Home() {
       title: "Marka Tescil",
       description: "Markanızı Türkiye&apos;de güvenle tescil ettirin. Hızlı ve güvenilir süreç.",
       features: ["Ön araştırma", "Başvuru hazırlığı", "Takip süreci"],
-      price: "1.500 TL'den başlayan fiyatlar",
+      price: "6.000 TL'den başlayan fiyatlar",
       duration: "6-12 ay",
       color: "from-primary-500 to-primary-600"
     },
