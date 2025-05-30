@@ -335,7 +335,7 @@ export default function Footer() {
               <div className="flex items-center space-x-4">
                 <div className="flex items-center space-x-2 text-sm text-secondary-300">
                   <HeartIcon className="h-4 w-4 text-red-400" />
-                  <span>Türkiye'de tasarlandı</span>
+                  <span>Türkiye&apos;de tasarlandı</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <div className="w-6 h-4 bg-red-500 rounded-sm"></div>

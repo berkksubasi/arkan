@@ -175,7 +175,7 @@ export default function Home() {
             >
               <div className="flex items-center space-x-2 mb-6">
                 <SparklesIcon className="h-6 w-6 text-accent-400" />
-                <span className="text-accent-400 font-semibold">Türkiye'nin Güvenilir Markası</span>
+                <span className="text-accent-400 font-semibold">Türkiye&apos;nin Güvenilir Markası</span>
               </div>
               <h1 className="text-4xl lg:text-6xl font-bold leading-tight mb-6 font-serif">
                 Markanızı

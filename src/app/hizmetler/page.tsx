@@ -51,26 +51,6 @@ export default function Hizmetler() {
     popular: boolean;
   }
 
-  interface MarkaService extends BaseService {
-    industries: string[];
-    benefits: string[];
-  }
-
-  interface ISOService extends BaseService {
-    industries: string[];
-    standards: string[];
-  }
-
-  interface TSEService extends BaseService {
-    industries: string[];
-    standards: string[];
-  }
-
-  interface UluslararasiService extends BaseService {
-    countries: string[];
-    advantages: string[];
-  }
-
   const services = {
     marka: [
       {
