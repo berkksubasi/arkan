@@ -113,9 +113,9 @@ export default function Footer() {
                 </div>
               </div>
               
-              <p className="text-secondary-200 mb-6 leading-relaxed">
-                15+ yıllık deneyimimizle fikri mülkiyet hakları ve kalite yönetim sistemleri 
-                alanında güvenilir danışmanlık hizmetleri sunuyoruz.
+              <p className="text-secondary-600 mb-4">
+                Türkiye&apos;nin önde gelen fikri mülkiyet ve kalite yönetim danışmanlığı firması olarak, 
+                15+ yıllık deneyimimizle işletmenizin başarısına katkı sağlıyoruz.
               </p>
 
               {/* Contact Info */}

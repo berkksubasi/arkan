@@ -11,7 +11,6 @@ import {
   CheckCircleIcon,
   ArrowRightIcon,
   StarIcon,
-  QuestionMarkCircleIcon,
   ChatBubbleLeftRightIcon,
   ShieldCheckIcon,
   BoltIcon,

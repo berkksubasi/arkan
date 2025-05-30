@@ -71,8 +71,6 @@ export default function Hizmetler() {
     advantages: string[];
   }
 
-  type ServiceType = MarkaService | ISOService | TSEService | UluslararasiService;
-
   const services = {
     marka: [
       {

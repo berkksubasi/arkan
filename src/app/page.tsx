@@ -6,38 +6,20 @@ import Link from 'next/link';
 import { 
   CheckCircleIcon, 
   ArrowRightIcon, 
-  ClockIcon, 
-  StarIcon, 
-  PhoneIcon, 
-  EnvelopeIcon, 
-  MapPinIcon, 
-  CalendarDaysIcon, 
-  UsersIcon, 
-  TrophyIcon, 
-  GlobeAltIcon, 
-  ShieldCheckIcon, 
-  DocumentCheckIcon, 
-  CogIcon, 
-  BeakerIcon, 
-  ComputerDesktopIcon, 
-  HeartIcon, 
-  TruckIcon, 
-  BanknotesIcon, 
-  BookOpenIcon, 
-  MapIcon, 
-  BoltIcon, 
-  HomeIcon, 
-  HandRaisedIcon, 
-  DocumentTextIcon, 
-  SparklesIcon, 
-  EyeIcon, 
-  ScaleIcon, 
-  RocketLaunchIcon, 
-  LightBulbIcon, 
-  AcademicCapIcon, 
-  CurrencyDollarIcon, 
-  ChatBubbleLeftRightIcon, 
-  PresentationChartLineIcon 
+  ClockIcon,
+  CurrencyDollarIcon,
+  StarIcon,
+  PhoneIcon,
+  BuildingOfficeIcon,
+  AcademicCapIcon,
+  TrophyIcon,
+  ScaleIcon,
+  HandRaisedIcon,
+  ShieldCheckIcon,
+  SparklesIcon,
+  PresentationChartLineIcon,
+  UsersIcon,
+  GlobeAltIcon
 } from '@heroicons/react/24/outline';
 
 export default function Home() {
@@ -45,7 +27,7 @@ export default function Home() {
     {
       icon: ShieldCheckIcon,
       title: "Marka Tescil",
-      description: "Markanızı Türkiye'de güvenle tescil ettirin. Hızlı ve güvenilir süreç.",
+      description: "Markanızı Türkiye&apos;de güvenle tescil ettirin. Hızlı ve güvenilir süreç.",
       features: ["Ön araştırma", "Başvuru hazırlığı", "Takip süreci"],
       price: "1.500 TL'den başlayan fiyatlar",
       duration: "6-12 ay",
@@ -61,7 +43,7 @@ export default function Home() {
       color: "from-accent-500 to-accent-600"
     },
     {
-      icon: DocumentCheckIcon,
+      icon: ShieldCheckIcon,
       title: "ISO Belgelendirme",
       description: "ISO standartları ile işletmenizin kalitesini belgeleyin.",
       features: ["ISO 9001", "ISO 14001", "ISO 45001"],
@@ -116,7 +98,7 @@ export default function Home() {
 
   const whyChooseUs = [
     {
-      icon: LightBulbIcon,
+      icon: BuildingOfficeIcon,
       title: "Uzman Danışmanlık",
       description: "15+ yıllık deneyimle alanında uzman kadromuz",
       color: "text-primary-500"
@@ -158,7 +140,7 @@ export default function Home() {
       step: "03",
       title: "Başvuru Süreci",
       description: "Profesyonel başvuru hazırlığı yapıyoruz",
-      icon: DocumentCheckIcon
+      icon: ShieldCheckIcon
     },
     {
       step: "04",

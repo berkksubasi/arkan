@@ -335,7 +335,7 @@ export default function Hakkimizda() {
                 <h2 className="text-3xl font-bold text-secondary-900 font-serif">Vizyonumuz</h2>
               </div>
               <p className="text-lg text-secondary-600 leading-relaxed mb-8">
-                Türkiye'nin ve bölgenin en güvenilir fikri mülkiyet ve kalite yönetim danışmanlığı firması olmak. 
+                Türkiye&apos;nin ve bölgenin en güvenilir fikri mülkiyet ve kalite yönetim danışmanlığı firması olmak. 
                 İnovatif çözümlerimizle müşterilerimizin global pazarlarda rekabet avantajı elde etmelerine katkı sağlamak.
               </p>
               <div className="space-y-4">
